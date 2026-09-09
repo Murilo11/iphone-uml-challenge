@@ -1,6 +1,6 @@
 # Modelagem e Diagramação de um Componente iPhone
 
-Desafio da trilha **Java Básico** (Digital Innovation One) sobre Programação Orientada a Objetos, com foco em modelagem UML e implementação em Java.
+Desafio da trilha **Java Devloper** (Digital Innovation One) sobre Programação Orientada a Objetos, com foco em modelagem UML e implementação em Java.
 
 ## Descrição
 
